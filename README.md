@@ -1,6 +1,6 @@
 # Python - Object Oriented Programming (OOP)
 
-### create a virtual environment in Python: 
+## create a virtual environment in Python and install Jupyter Lab: 
 #### mkdir ~/OOP
 #### cd ~/OOP
 #### python3 -m venv venv
@@ -9,7 +9,7 @@
 #### jupyter lab
 #### open: OOP.ipynb
 
-### If you want to use pandas:
+## If you want to use pandas:
 #### pip install pandas
 
-### Download the files into ~/OOP
+# Download the files into ~/OOP
