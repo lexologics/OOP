@@ -10,6 +10,6 @@
 #### open: OOP.ipynb
 
 ## If you want to use pandas:
-#### pip install pandas           # installs also: numpy
+#### pip install pandas           # installing also: numpy
 
 # Download the files into ~/OOP
