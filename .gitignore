@@ -1,4 +1,6 @@
 /__pycache__/
 /.ipynb_*
 /OOPvenv
+.git
+.gitignore
 
